@@ -1,0 +1,16 @@
+15
+0 Gocciole Pavesi 0.1 3.5 2.3 6.2 1.0 5.6 8.9 1.1 0.3 7.4
+1 Nascondini MulinoBianco 3.2 1.1 3.0 0.5 0.8 0.7 2.5 6.1 0.1 1.5
+2 Nutella Ferrero 0.0 3.2 3.9 5.2 4.1 0.7 2.4 1.0 0.3 9.0
+3 Cereali Kinder 0.8 0.6 0.7 1.5 2.6 2.4 0.8 0.3 0.4 0.9
+4 Tarallucci MulinoBianco 8.1 3.5 3.9 1.1 0.3 6.3 2.3 6.2 1.0 5.6 
+5 Biscuits Nutella 6.2 1.0 5.6 3.9 1.1 8.1 3.5 2.3 0.3 6.3
+6 Vaniglia Kinder 5.6 3.9 1.1 0.3 6.3 8.1 3.5 2.3 0.3 6.3
+7 Protein Foodspring 8.1 3.5 2.3 4.2 1.0 5.6 3.9 1.1 0.3 6.3
+8 Frollini Galbusera 0.6 3.9 7.1 0.3 6.6 0.1 3.5 2.3 6.2 1.0
+9 Patatine SanCarlo 1.7 2.1 0.1 0.9 5.3 0.1 2.3 2.3 5.2 1.0
+10 Baiocchi MulinoBianco 6.2 1.0 4.6 8.9 0.1 3.5 2.3 1.1 0.3 7.4
+11 FettaAlLatte Kinder 2.3 6.2 1.1 0.3 7.4 0.1 3.5 1.0 5.6 8.9
+12 Burro Nutella 1.1 9.5 2.3 7.2 1.8 5.6 1.7 1.1 0.8 2.4 
+13 IceCream Kinder 1.5 2.7 2.3 3.2 12.6 5.6 0.9 1.1 0.3 7.4
+14 Cocco Crisbi 2.3 6.2 3.5 1.0 4.6 3.9 4.1 0.3 6.3 8.1
