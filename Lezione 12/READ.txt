@@ -1,0 +1,6 @@
+LEZIONE 12
+
+Cartella vuota poiché si tratta di un pdf per lo più teorico, non ci sono esercizi ma solo note sulla gestione delle
+eccezioni. Ho scritto tutto quello che c'è da sapere sugli appunti.
+Ho comunque creato una cartella per una questione di ordine, nel caso in cui dovessi fare un esercizio incentrato 
+sulla eccezioni lo carico qui.

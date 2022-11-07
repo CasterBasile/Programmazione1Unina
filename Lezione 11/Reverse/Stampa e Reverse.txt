@@ -1,0 +1,40 @@
+//Stampa
+template <typename NodoTipo>
+void collegamentoLista<NodoTipo>::print(){
+    Nodo<NodoTipo>* temp = head;
+    while(temp != nullptr){
+        cout<<temp->elem<<" ";
+        temp = temp->next;
+    }
+}
+
+
+//Reverse ricorsivo
+template <typename NodoTipo>
+void collegamentoLista<NodoTipo>::Reverse(Nodo<NodoTipo>* p){
+    if(p->next==nullptr){
+        head=p;
+        return;
+    }
+    Reverse(p->next);
+    Nodo<NodoTipo>* q = p->next;
+    q->next=p;
+    p->next=nullptr;
+}
+
+
+//Reverse iterativo
+template <typename NodoTipo>
+void collegamentoLista<NodoTipo>::ReverseIterative(){
+    Nodo<NodoTipo>* current = head;
+    Nodo<NodoTipo>* prev = nullptr;
+    Nodo<NodoTipo>* next=nullptr;
+
+    while(current != nullptr){
+        next = current->next;
+        current->next = prev;
+        prev = current;
+        current = next;
+    }
+    head = prev;
+}
